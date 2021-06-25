@@ -9,6 +9,7 @@ namespace TestProject
         {
             Console.WriteLine(CommonClass.SomeProperty);
             Console.WriteLine(CommonClass.SomeProperty2);
+            Console.WriteLine(CommonClass.SomeProperty3);
         }
     }
 }
